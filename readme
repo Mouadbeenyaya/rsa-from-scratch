@@ -11,7 +11,4 @@ Ce projet implémente le chiffrement RSA en Python, incluant la génération de 
 - Padding/dépadding PKCS#1 v1.5
 - Test intégré avec chiffrement/déchiffrement d'un message
 
-## 📁 Structure du projet
-
-├── rsa.py             # Code principal avec toutes les fonctions RSA
 
